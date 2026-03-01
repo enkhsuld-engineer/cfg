@@ -1,0 +1,33 @@
+"lang"
+{
+    "Language" "English"
+    "Tokens"
+    {
+        "CFG_DLUSH_KNIFE1" "BUTTERFLY"
+        "CFG_DLUSH_KNIFE2" "M9 BAYONET"
+        "CFG_DLUSH_KNIFE3" "CLASSIC"
+        "CFG_DLUSH_KNIFE4" "KARAMBIT"
+        "CFG_DLUSH_KNIFE5" "FLIP"
+        "CFG_DLUSH_KNIFE6" "STILETTO"
+        "CFG_DLUSH_KNIFE7" "SKELETON"
+        "CFG_DLUSH_KNIFE8" "TALON"
+
+		"CFG_PRAC_SETUP" "SETUP"
+		"CFG_PRAC_NADE_ON" "NADE_ON"
+		"CFG_PRAC_NADE_OFF" "NADE_OFF"
+		"CFG_PRAC_IMPACT_ON" "IMPACT_ON"
+		"CFG_PRAC_IMPACT_OFF" "IMPACT_OFF"
+		"CFG_PRAC_BOT_KICK" "BOT_KICK"
+		"CFG_PRAC_RESTART" "RESTART"
+		"CFG_PRAC_NOCLIP" "NOCLIP"
+
+		"CFG_CROSSHAIR_ROPZ"        "ropz  \n ✜ \n  \n  \n  \n "
+		"CFG_CROSSHAIR_ZYWOO"       "ZywOo  \n ⊕ \n  \n  \n  \n "
+		"CFG_CROSSHAIR_MOLODOY"     "molodoy  \n ⊕ \n  \n  \n  \n "
+		"CFG_CROSSHAIR_NIKO"        "NiKo  \n ✜ \n  \n  \n  \n "
+		"CFG_CROSSHAIR_M0NESY"      "m0NESY  \n ⊕ \n  \n  \n  \n "
+		"CFG_CROSSHAIR_DONK"        "donk  \n ✜ \n  \n  \n  \n "
+		"CFG_CROSSHAIR_S1MPLE"      "S1mple \n ⊕ \n  \n  \n \n \n "
+		"CFG_CROSSHAIR_DEV1CE"      "dev1ce  \n ⊕ \n  \n  \n  \n "
+    }
+}
